@@ -1,0 +1,14 @@
+C:\Users\123456\Desktop\liu-library\liu_library\bin\Release\liu_library.accdb
+C:\Users\123456\Desktop\liu-library\liu_library\bin\Release\liu_library.exe.config
+C:\Users\123456\Desktop\liu-library\liu_library\bin\Release\liu_library.exe
+C:\Users\123456\Desktop\liu-library\liu_library\bin\Release\liu_library.pdb
+C:\Users\123456\Desktop\liu-library\liu_library\obj\Release\liu_library.Form1.resources
+C:\Users\123456\Desktop\liu-library\liu_library\obj\Release\liu_library.Form2.resources
+C:\Users\123456\Desktop\liu-library\liu_library\obj\Release\liu_library.Form3.resources
+C:\Users\123456\Desktop\liu-library\liu_library\obj\Release\liu_library.Head.resources
+C:\Users\123456\Desktop\liu-library\liu_library\obj\Release\liu_library.Properties.Resources.resources
+C:\Users\123456\Desktop\liu-library\liu_library\obj\Release\liu_library.Search.resources
+C:\Users\123456\Desktop\liu-library\liu_library\obj\Release\liu_library.csproj.GenerateResource.cache
+C:\Users\123456\Desktop\liu-library\liu_library\obj\Release\liu_library.csproj.CoreCompileInputs.cache
+C:\Users\123456\Desktop\liu-library\liu_library\obj\Release\liu_library.exe
+C:\Users\123456\Desktop\liu-library\liu_library\obj\Release\liu_library.pdb
